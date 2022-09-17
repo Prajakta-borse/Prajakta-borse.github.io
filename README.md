@@ -11,3 +11,7 @@ It can be observed that between HDI values of 0.7 and 0.8, the frequency is high
 4. Stacked bar plot: Using Stacked bar plot we are able to compare the Percent Renewable Energy values from total energy for two years- 2015 and 2016 simultaneously. We could also add the values for more years and get differences in the values for different years. 
 5. Horizontal Bar plot:
 The horizontal bar plot is useful when there are many labels, which cannot be fit in the vertical bar plot. In horizontal bar plot we compared the values for 20 countries simultaneously.
+
+References:
+https://matplotlib.org/
+https://hdr.undp.org/data-center
