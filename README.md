@@ -12,6 +12,8 @@ It can be observed that between HDI values of 0.7 and 0.8, the frequency is high
 5. Horizontal Bar plot:
 The horizontal bar plot is useful when there are many labels, which cannot be fit in the vertical bar plot. In horizontal bar plot we compared the values for 20 countries simultaneously.
 
+My data Science Projects link: https://sites.google.com/d/1iMFqxsI_mwmRN0zGhZB_YxXbMdaFkxdb/p/1Gh4IwIZTUtwmhmkKPhHVAJLyFZ_HpAw4/edit
+
 References:
 https://matplotlib.org/
 
