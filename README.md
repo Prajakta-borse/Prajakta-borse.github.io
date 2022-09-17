@@ -14,4 +14,5 @@ The horizontal bar plot is useful when there are many labels, which cannot be fi
 
 References:
 https://matplotlib.org/
+
 https://hdr.undp.org/data-center
